@@ -1,7 +1,4 @@
 <h1 align="center">Eu sou o Murilo 🖐🏿</h1>
-<h2 align="center">
-  Desenvolvedor Full-Stack, tendo como meu maior foco as tecnologias que usam C#.
-</h2>
 <h3 align="center">Bem-Vindo ao meu Github!
 Aqui vou subir todos meus projetos pessoais e profissionais, se curtiu meu trabalho não hesite em entrar em contato!</h3>
 
