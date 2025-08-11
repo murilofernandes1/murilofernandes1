@@ -2,6 +2,4 @@
 
 ### Olá, meu nome é Murilo!
 
-<p>Desenvolvedor Front-End</p>
-
 
