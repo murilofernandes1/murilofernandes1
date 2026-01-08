@@ -1,12 +1,44 @@
-# Olá, eu sou o Murilo 👋
+<h1 align="center">
+  Olá, eu sou o Murilo!
+</h1>
 
-Sou desenvolvedor front-end e mobile.
-
-**JavaScript** e **TypeScript** usando **React** e **React Native**.
-
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilofernandes1&show_icons=true&theme=dark&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilofernandes1&layout=compact&theme=dark&langs_count=5)
+<p align="center">
+  <strong>Desenvolvedor Front‑end e Mobile</strong>
+  <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong> e <strong>React Native</strong>.
+</p>
 
 ---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murilofernandes1&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilofernandes1&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/murilofernandesdev/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:murilofernandesvaz4@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
 
