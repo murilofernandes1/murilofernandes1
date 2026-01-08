@@ -4,7 +4,6 @@
 
 <p align="center">
   <strong>Desenvolvedor Front‑end e Mobile</strong>
-  <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong> e <strong>React Native</strong>.
 </p>
 
 ---
@@ -23,11 +22,11 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murilofernandes1&show_icons=true&theme=dark" alt="GitHub Stats" />
+  ![GitHub Stats](https://githubstatsfordevs.netlify.app/api?username=murilofernandes1)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilofernandes1&layout=compact&theme=dark" alt="Top Languages" />
+  ![Animated Stats](https://animated-profile-stats.vercel.app/api/card?username=murilofernandes1&type=fire)
 </p>
 
 ---
