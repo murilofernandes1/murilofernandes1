@@ -13,20 +13,6 @@
   <img src="https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
----
-
-## 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  ![GitHub Stats](https://githubstatsfordevs.netlify.app/api?username=murilofernandes1)
-</p>
-
-<p align="center">
-  ![Animated Stats](https://animated-profile-stats.vercel.app/api/card?username=murilofernandes1&type=fire)
-</p>
-
----
-
 ## 📫 Contato
 
 <p align="center">
