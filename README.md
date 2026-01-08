@@ -6,12 +6,6 @@
   <strong>Desenvolvedor Front‑end e Mobile</strong>
 </p>
 
----
-
-![murilofernandes1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=murilofernandes1&theme=vue-dark&hide_border=true)
-
-## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TS" />
