@@ -8,6 +8,8 @@
 
 ---
 
+![murilofernandes1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=murilofernandes1&theme=vue-dark&hide_border=true)
+
 ## 🛠️ Tech Stack
 
 <p align="center">
