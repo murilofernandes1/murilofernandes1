@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Desenvolvedor Web e Mobile</strong>
+  <strong>Desenvolvedor Web e Mobile 💻📱</strong>
 </p>
 
 <p align="center">
