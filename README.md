@@ -67,17 +67,24 @@ Currently studying Systems Analysis and Development at Unianchieta.
 <img width="12" />
 </div>
 
-**Tools & Infrastructure**
+---
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+**Infrastructure & Tools**
+
+<div align="left">
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
 
 ---
 
 ## GitHub Stats
 
-<div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=murilofernandes1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilofernandes1&layout=compact&theme=tokyonight&hide_border=true" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/murilofernandes1/murilofernandes1/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/murilofernandes1/murilofernandes1/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
