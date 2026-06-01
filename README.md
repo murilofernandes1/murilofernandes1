@@ -80,11 +80,3 @@ Currently studying Systems Analysis and Development at Unianchieta.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/murilofernandes1/murilofernandes1/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/murilofernandes1/murilofernandes1/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
