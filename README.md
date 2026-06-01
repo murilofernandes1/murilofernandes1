@@ -1,6 +1,6 @@
-# Murilo Fernandes Vaz
+# Hello, I'm Murilo!
 
-**Full Stack Developer** — focused on web and mobile applications with React, Next.js, Node.js and React Native.
+**Full Stack Developer**, focused on web and mobile applications with React, Next.js, Node.js and React Native.
 
 Currently studying Systems Analysis and Development at Unianchieta.
 
